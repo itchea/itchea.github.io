@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Osama</title>
+ <link href="http://osama-ragab.com/atom.xml" rel="self"/>
+ <link href="http://osama-ragab.com/"/>
+ <updated>2014-09-25T09:45:00+02:00</updated>
+ <id>http://osama-ragab.com</id>
+ <author>
+   <name>Osama r. Shaban</name>
+   <email>sp4rta@live.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>building a gaming pc</title>
+   <link href="http://osama-ragab.com//2014/09/24/my-first-post/"/>
+   <updated>2014-09-24T00:00:00+02:00</updated>
+   <id>http://osama-ragab.com/2014/09/24/my-first-post</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/XsyxM_j3Y4U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+
+</feed>
