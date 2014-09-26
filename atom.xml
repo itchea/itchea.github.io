@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Osama</title>
+ <link href="http://osama-ragab.com/atom.xml" rel="self"/>
+ <link href="http://osama-ragab.com/"/>
+ <updated>2014-09-26T19:37:04+02:00</updated>
+ <id>http://osama-ragab.com</id>
+ <author>
+   <name>Osama r. Shaban</name>
+   <email>sp4rta@live.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My first post</title>
+   <link href="http://osama-ragab.com//2014/09/26/my-first-post/"/>
+   <updated>2014-09-26T00:00:00+02:00</updated>
+   <id>http://osama-ragab.com/2014/09/26/my-first-post</id>
+   <content type="html">Hello,
+This is my first post using jekyll, which is a static website generator (i.e. no databases or other complicated stuff).It certainly took long time to modify the htmls and csses, but i think it was worth it.
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/public/helloworld.jpg&quot;&gt;&lt;/img&gt;&lt;/div&gt;
+&lt;p&gt;
+This website is hosted on github pages, which is a free hosting for personal and projects pages,and setup to work with my domain, which i got from godaddy.com for 1.99$ for the first year using a coupon code. 
+&lt;br&gt;&lt;br&gt;
+In an ideal world i would have installed a more user friendly cms or blog, but unfortunately github pages don&#39;t allow mysql databases. that makes it quite impossible to have a fully functional website; however, jekyll dont use that. jekyll let you write your posts locally in any markdown language you like, and then transform them into full html pages.
+&lt;br&gt;&lt;br&gt;
+I learned many new things in the process of getting this site up. The most valuable of them is using git cli, which turned out to be much better than downloading a master zip file. I also learned about dns zones and domain forwardnig.I also noticed that my html knowledge isn&#39;t that great, so i am trying to get better at html now (in fact i am writing this post in html now). 
+&lt;br&gt;&lt;br&gt;
+Finally i thought of making a tutorial on making a website like mine, but there are already sufficient tutorials out there, so i am linking them. hopefully when i finish my layout, i will share my layout.
+&lt;br&gt;&lt;br&gt;
+*credits go to writers
+&lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;http://joshualande.com/jekyll-github-pages-poole/&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a&quot;&gt;GitHub Pages + GoDaddy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
